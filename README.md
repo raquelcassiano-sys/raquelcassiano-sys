@@ -2,7 +2,7 @@
 
 **`Graduanda em Computação`**
 
-Sou Raquel Silva Cassiano, estudante do 2º período de Ciência da Computação na Unicesumar, em Manaus – AM. Meu interesse por projetos e pesquisa começou ainda no ensino médio, que cursei no SESI, onde participei de atividades científicas e tive a oportunidade de apresentar trabalhos em congressos acadêmicos. Atualmente, na graduação, estou ampliando meus conhecimentos em programação e computação por meio de projetos práticos e experiências em equipe. Tenho interesse em aprender, explorar novas tecnologias e desenvolver soluções.
+Sou Raquel Silva Cassiano, estudante do 2º período de Ciência da Computação no Ciesa, em Manaus – AM. Meu interesse por projetos e pesquisa começou ainda no ensino médio, que cursei no SESI, onde participei de atividades científicas e tive a oportunidade de apresentar trabalhos em congressos acadêmicos. Atualmente, na graduação, estou ampliando meus conhecimentos em programação e computação por meio de projetos práticos e experiências em equipe. Tenho interesse em aprender, explorar novas tecnologias e desenvolver soluções.
 
 <p align="left">
         </a>
