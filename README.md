@@ -39,6 +39,7 @@ Sou Raquel Silva Cassiano, estudante do 2º período de Ciência da Computação
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Next.js" 
@@ -46,8 +47,8 @@ Sou Raquel Silva Cassiano, estudante do 2º período de Ciência da Computação
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
- 
 />
+
 <img 
     align="left" 
     alt="Git" 
